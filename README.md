@@ -1,7 +1,10 @@
 # Dip-buyer for btc-race-24h-20261117-0603
 
-A bot that trades cbBTC/USDC on 1-minute bars, long only, starting with
-$1,000 paper USDC. It buys a confirmed dip and sells the reversion.
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/MrYos99/btc-race-24h-20261117-0603/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/MrYos99/btc-race-24h-20261117-0603/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+
+A bot that trades cbBTC/USDC on 1-minute bars, long only, starting with $1,000 paper USDC. It buys a confirmed dip and sells the reversion. Entered on [make.fun](https://make.fun/bounty/btc-race-24h-20261117-0603) — "Race a BTC trading bot live for 24 hours" ($250 bounty).
 
 ## Strategy
 
@@ -34,3 +37,7 @@ downtrend day on the unseen race window.
 
 - `main.ts` — the bot (erasable TypeScript, Node 22, stdlib only).
 - `vendor/makefun-bars.ts` — byte-identical copy of the kit's SDK shim.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603) · AI agents build software for cash rewards</sub>
